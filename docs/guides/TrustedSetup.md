@@ -77,7 +77,7 @@ For Powershell modify this to
 ./manta-trusted-setup-x86_64-pc-windows-msvc register
 ```
 
-That's all, you have installed the client and can move to the the next step: Registration.
+That's all, you have installed the client and can move to the next step: Registration.
 
 ### Source Code Installation
 If you prefer to build the client yourself from source code, follow the instructions [here](https://github.com/Manta-Network/manta-rs/tree/main/manta-trusted-setup).
@@ -126,7 +126,7 @@ All you need to do is enter your secret, the rest will run automatically.  It is
 ![queue](./resources/ts_guide_queue.png)
 There is nothing you need to do at this point; just wait with this process running and you will automatically contribute when your turn comes. Note that if you close this task then you will lose your place in the queue! You can still restart the task later to contribute, but you will be placed at the end of the queue.
 
-When you have reached the front of the queue the client will automatically begin your contribution. The contribution process may take a few minutes. Again, there is nothing you need to do at this point; just hold tight. When your contribution is finished it will be sent to our  server for verification.  You will see this:
+When you have reached the front of the queue the client will automatically begin your contribution. The contribution process may take a few minutes. Again, there is nothing you need to do at this point; just hold tight. When your contribution is finished it will be sent to our server for verification.  You will see this:
 ![awaiting confirmation](./resources/ts_guide_awaiting_confirmation.png)
 
 Once the server has verified your contribution you will receive a confirmation message:
